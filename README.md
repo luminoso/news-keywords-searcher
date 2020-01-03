@@ -55,7 +55,7 @@ Since the implementation has python type hints and f-strings, the minimum requir
 There are examples of programmatically querying the dataset examples in the [_search_examples.ipynb_](https://github.com/luminoso/news-keywords-searcher/blob/master/doc/search_examples.ipynb) Jupyter Notebook. This repo includes a small _'articles1.csv'_ portion of the full Kaggel's dataset with the first 2500 articles. Tokenizing the news articles may take some minutes for the full dataset.
 
 
-# Small walkthrough though implementation
+# Small walkthrough through implementation
 
 **1. Reader** ([auxfunctions.py](https://github.com/luminoso/news-keywords-searcher/blob/master/auxfunctions.py))
 
